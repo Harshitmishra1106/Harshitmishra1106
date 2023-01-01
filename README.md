@@ -27,5 +27,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshitmishra1106&" alt="harshitmishra1106" /></p>
 <p><img align= "center" src="https://github-readme-activity-graph.cyclic.app/graph?username=Harshitmishra1106&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph"/></p>
+<h3 align="center">Visitor's Count</h3>
 <p align="center"> <img src="https://profile-counter.glitch.me/Harshitmishra1106/count.svg" alt="harshitmishra1106" /> </p>
+
 <p align="center"> <img src="https://github.com/Harshitmishra1106/Harshitmishra1106/blob/output/github-contribution-grid-snake.gif" alt="snake" /> </p>
