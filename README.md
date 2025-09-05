@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C++,Android Development & Data Structures**
 
-- 💬 Ask me about **C, C++ and Android Development**
+- 💬 Ask me about **Data Structures, Algorithms and Android Development**
 
 - 📫 How to reach me **harshitmishragarhwa@gmail.com**
 
